@@ -1,7 +1,7 @@
-Apples
+Oranges
 Bananas
 Corn
-Cat food
+Dog food
 Cereal
 Bread
 Eggs
